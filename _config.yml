@@ -83,6 +83,8 @@ author:
 publication_category:
   preprints:
     title: 'Preprints'
+  technical_reports:
+    title: 'Technical Reports'
   manuscripts:
     title: 'Journal Articles'
   conferences:
